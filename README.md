@@ -43,3 +43,4 @@ git push -u origin [nombre_de_la_rama] // Sube tus commits a la rama remota.
 git pull // Actualiza tu repositorio local con el más reciente commit del repositorio remoto.
 git fetch // Obtiene todos los cambios del repositorio remoto, pero no los aplica a tu trabajo actual.
 ```# clon-ejemplo
+# clon-ejemplo
